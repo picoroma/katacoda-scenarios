@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+Benvenuto nel mio primo Katacoda Scenario!
